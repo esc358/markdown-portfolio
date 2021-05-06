@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Programming Languages currently learning*
+_HTML, CSS, JS, Java, C#, Python_
+
+**My skills are:**
+__Organized, Team-oriented, Work well under no supervision__
+
